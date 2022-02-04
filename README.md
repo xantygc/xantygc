@@ -1,4 +1,6 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xantygc/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xantygc/0" alt="Recent Article 0"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xantygc/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xantygc/1" alt="Recent Article 0"> 
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xantygc/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xantygc/2" alt="Recent Article 0"> 
 
 
 <!--
